@@ -238,4 +238,4 @@ Log back in as the Owner.
 
 Change request status to In Progress -> Closed.
 
-Result: Status updates and Audit Log is created.
+Result: Status updates and Audit Log is created in admin profile this will be added in audit log.
