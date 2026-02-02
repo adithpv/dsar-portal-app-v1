@@ -205,7 +205,9 @@ On the home page, click **Register** (or **Login** if you already have an accoun
 
 After registration, you will be redirected to a **Company Registration form** where you can fill in company details and upload the company logo.
 
-**Result:** Dashboard opens, but company status is **"Pending"**.
+**Result:** Dashboard opens with details related to company and table for showing requests if any available*.
+
+Will have an subscribe and status of inactive buttons on top right indicating this company is not active yet admin need to approve
 
 ---
 
@@ -215,7 +217,7 @@ Login as an **Admin** user with new browser or in private tab.
 
 Will redirect to admin dashbaord, this dashboard contain company requests and click **Approve** on the new company request.
 
-**Result:** Company status becomes **"Approved"**.
+**Result:** Company is active and link will be enabled but owner need to subscribe for end user to access public link.
 
 ---
 
